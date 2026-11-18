@@ -1,0 +1,10 @@
+table,field,meaning
+farmers,farmer_id,"Unique farmer ID, format Fnnnnn"
+farmers,registration_date,Date the farmer joined
+farmers,pathway,Training only / Training + Finance / Training + Greenhouse
+farmers,consent_to_data_use,Yes/No consent flag
+attendance,attended,Yes if present at session
+sales,amount_kes,quantity x unit price in KES
+wallet_transactions,txn_type,"Deposit, Withdrawal, Loan disbursement, Loan repayment"
+finance_ledger,ledger_amount_kes,Finance's monthly sales total by product
+outcomes,harvest_kg / income_kes,Farmer-reported per season

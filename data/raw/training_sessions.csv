@@ -1,0 +1,1841 @@
+session_id,session_date,topic,champion_id
+S00001,2023-01-02,Water management,VC005
+S00002,2023-01-07,Record keeping,VC030
+S00003,2023-01-10,Record keeping,VC029
+S00004,2023-01-05,Greenhouse basics,VC002
+S00005,2023-01-01,Pest management,VC016
+S00006,2023-01-21,Water management,VC027
+S00007,2023-01-01,Record keeping,VC004
+S00008,2023-01-07,Savings and loans,VC023
+S00009,2023-01-09,Pest management,VC021
+S00010,2023-01-25,Greenhouse basics,VC028
+S00011,2023-01-22,Record keeping,VC001
+S00012,2023-01-07,Record keeping,VC007
+S00013,2023-01-01,Vermicomposting,VC030
+S00014,2023-01-01,Greenhouse basics,VC025
+S00015,2023-01-04,Savings and loans,VC015
+S00016,2023-01-21,Vermicomposting,VC001
+S00017,2023-01-19,Greenhouse basics,VC027
+S00018,2023-01-26,Pest management,VC005
+S00019,2023-01-14,Pest management,VC008
+S00020,2023-01-09,Pest management,VC010
+S00021,2023-01-21,Pest management,VC026
+S00022,2023-01-17,Vermicomposting,VC006
+S00023,2023-01-10,Water management,VC010
+S00024,2023-01-16,Water management,VC022
+S00025,2023-01-27,Pest management,VC015
+S00026,2023-01-25,Pest management,VC025
+S00027,2023-01-15,Greenhouse basics,VC002
+S00028,2023-01-22,Greenhouse basics,VC028
+S00029,2023-01-03,Water management,VC028
+S00030,2023-01-14,Water management,VC001
+S00031,2023-01-23,Greenhouse basics,VC029
+S00032,2023-01-03,Vermicomposting,VC010
+S00033,2023-01-11,Record keeping,VC024
+S00034,2023-01-10,Pest management,VC008
+S00035,2023-01-14,Water management,VC018
+S00036,2023-01-15,Savings and loans,VC019
+S00037,2023-01-03,Savings and loans,VC021
+S00038,2023-01-03,Greenhouse basics,VC001
+S00039,2023-01-20,Vermicomposting,VC017
+S00040,2023-01-03,Record keeping,VC027
+S00041,2023-02-14,Record keeping,VC023
+S00042,2023-02-22,Pest management,VC030
+S00043,2023-02-01,Water management,VC027
+S00044,2023-02-08,Savings and loans,VC003
+S00045,2023-02-04,Water management,VC010
+S00046,2023-02-13,Savings and loans,VC024
+S00047,2023-02-15,Savings and loans,VC022
+S00048,2023-02-21,Record keeping,VC005
+S00049,2023-02-12,Water management,VC005
+S00050,2023-02-27,Vermicomposting,VC011
+S00051,2023-02-10,Savings and loans,VC008
+S00052,2023-02-15,Water management,VC023
+S00053,2023-02-21,Pest management,VC022
+S00054,2023-02-02,Vermicomposting,VC028
+S00055,2023-02-01,Vermicomposting,VC001
+S00056,2023-02-08,Greenhouse basics,VC006
+S00057,2023-02-01,Greenhouse basics,VC009
+S00058,2023-02-23,Greenhouse basics,VC027
+S00059,2023-02-03,Vermicomposting,VC017
+S00060,2023-02-03,Pest management,VC018
+S00061,2023-02-27,Pest management,VC022
+S00062,2023-02-27,Record keeping,VC002
+S00063,2023-02-23,Savings and loans,VC018
+S00064,2023-02-23,Savings and loans,VC017
+S00065,2023-02-17,Vermicomposting,VC016
+S00066,2023-02-17,Greenhouse basics,VC007
+S00067,2023-02-06,Greenhouse basics,VC008
+S00068,2023-02-10,Savings and loans,VC018
+S00069,2023-02-21,Savings and loans,VC027
+S00070,2023-02-26,Record keeping,VC003
+S00071,2023-02-19,Vermicomposting,VC013
+S00072,2023-02-24,Water management,VC005
+S00073,2023-02-21,Water management,VC015
+S00074,2023-02-07,Record keeping,VC030
+S00075,2023-02-02,Pest management,VC014
+S00076,2023-02-08,Savings and loans,VC009
+S00077,2023-02-19,Greenhouse basics,VC015
+S00078,2023-02-27,Vermicomposting,VC017
+S00079,2023-02-02,Vermicomposting,VC019
+S00080,2023-02-09,Greenhouse basics,VC030
+S00081,2023-03-11,Savings and loans,VC015
+S00082,2023-03-02,Savings and loans,VC026
+S00083,2023-03-18,Savings and loans,VC023
+S00084,2023-03-11,Vermicomposting,VC010
+S00085,2023-03-08,Pest management,VC020
+S00086,2023-03-01,Pest management,VC023
+S00087,2023-03-24,Savings and loans,VC014
+S00088,2023-03-05,Vermicomposting,VC007
+S00089,2023-03-15,Vermicomposting,VC024
+S00090,2023-03-17,Pest management,VC025
+S00091,2023-03-01,Greenhouse basics,VC012
+S00092,2023-03-25,Greenhouse basics,VC026
+S00093,2023-03-23,Water management,VC021
+S00094,2023-03-27,Savings and loans,VC008
+S00095,2023-03-15,Savings and loans,VC005
+S00096,2023-03-23,Record keeping,VC009
+S00097,2023-03-12,Greenhouse basics,VC025
+S00098,2023-03-11,Greenhouse basics,VC022
+S00099,2023-03-18,Savings and loans,VC022
+S00100,2023-03-15,Pest management,VC006
+S00101,2023-03-19,Record keeping,VC015
+S00102,2023-03-16,Water management,VC019
+S00103,2023-03-01,Water management,VC011
+S00104,2023-03-20,Vermicomposting,VC022
+S00105,2023-03-15,Greenhouse basics,VC011
+S00106,2023-03-17,Record keeping,VC016
+S00107,2023-03-04,Water management,VC015
+S00108,2023-03-05,Vermicomposting,VC005
+S00109,2023-03-23,Water management,VC023
+S00110,2023-03-22,Savings and loans,VC025
+S00111,2023-03-09,Record keeping,VC011
+S00112,2023-03-02,Pest management,VC024
+S00113,2023-03-22,Vermicomposting,VC018
+S00114,2023-03-08,Vermicomposting,VC009
+S00115,2023-03-18,Water management,VC001
+S00116,2023-03-09,Greenhouse basics,VC026
+S00117,2023-03-22,Vermicomposting,VC020
+S00118,2023-03-25,Greenhouse basics,VC008
+S00119,2023-03-10,Record keeping,VC022
+S00120,2023-03-23,Water management,VC013
+S00121,2023-04-04,Vermicomposting,VC026
+S00122,2023-04-23,Greenhouse basics,VC014
+S00123,2023-04-23,Greenhouse basics,VC008
+S00124,2023-04-21,Vermicomposting,VC010
+S00125,2023-04-24,Water management,VC023
+S00126,2023-04-16,Savings and loans,VC030
+S00127,2023-04-07,Savings and loans,VC015
+S00128,2023-04-05,Water management,VC002
+S00129,2023-04-23,Savings and loans,VC016
+S00130,2023-04-03,Greenhouse basics,VC023
+S00131,2023-04-11,Record keeping,VC008
+S00132,2023-04-12,Greenhouse basics,VC017
+S00133,2023-04-18,Vermicomposting,VC021
+S00134,2023-04-10,Vermicomposting,VC025
+S00135,2023-04-15,Vermicomposting,VC019
+S00136,2023-04-16,Record keeping,VC020
+S00137,2023-04-13,Water management,VC005
+S00138,2023-04-02,Record keeping,VC010
+S00139,2023-04-06,Vermicomposting,VC007
+S00140,2023-04-07,Water management,VC016
+S00141,2023-04-04,Vermicomposting,VC017
+S00142,2023-04-13,Water management,VC027
+S00143,2023-04-22,Vermicomposting,VC010
+S00144,2023-04-12,Pest management,VC008
+S00145,2023-04-23,Water management,VC008
+S00146,2023-04-01,Water management,VC025
+S00147,2023-04-17,Savings and loans,VC014
+S00148,2023-04-08,Vermicomposting,VC009
+S00149,2023-04-06,Water management,VC027
+S00150,2023-04-08,Water management,VC022
+S00151,2023-04-04,Greenhouse basics,VC019
+S00152,2023-04-13,Water management,VC023
+S00153,2023-04-09,Savings and loans,VC003
+S00154,2023-04-17,Record keeping,VC001
+S00155,2023-04-14,Vermicomposting,VC012
+S00156,2023-04-22,Greenhouse basics,VC013
+S00157,2023-04-13,Record keeping,VC005
+S00158,2023-04-23,Vermicomposting,VC002
+S00159,2023-04-24,Water management,VC001
+S00160,2023-04-04,Record keeping,VC009
+S00161,2023-05-01,Record keeping,VC016
+S00162,2023-05-23,Greenhouse basics,VC008
+S00163,2023-05-12,Vermicomposting,VC023
+S00164,2023-05-10,Greenhouse basics,VC030
+S00165,2023-05-16,Pest management,VC024
+S00166,2023-05-13,Greenhouse basics,VC003
+S00167,2023-05-04,Greenhouse basics,VC016
+S00168,2023-05-08,Pest management,VC002
+S00169,2023-05-20,Savings and loans,VC007
+S00170,2023-05-17,Greenhouse basics,VC018
+S00171,2023-05-10,Savings and loans,VC014
+S00172,2023-05-27,Savings and loans,VC023
+S00173,2023-05-07,Greenhouse basics,VC026
+S00174,2023-05-18,Savings and loans,VC026
+S00175,2023-05-03,Water management,VC009
+S00176,2023-05-18,Vermicomposting,VC006
+S00177,2023-05-13,Record keeping,VC010
+S00178,2023-05-06,Record keeping,VC011
+S00179,2023-05-22,Savings and loans,VC010
+S00180,2023-05-02,Greenhouse basics,VC008
+S00181,2023-05-03,Record keeping,VC023
+S00182,2023-05-24,Record keeping,VC016
+S00183,2023-05-11,Vermicomposting,VC004
+S00184,2023-05-18,Water management,VC008
+S00185,2023-05-22,Vermicomposting,VC002
+S00186,2023-05-14,Water management,VC007
+S00187,2023-05-14,Pest management,VC021
+S00188,2023-05-01,Record keeping,VC004
+S00189,2023-05-07,Water management,VC030
+S00190,2023-05-13,Vermicomposting,VC028
+S00191,2023-05-13,Vermicomposting,VC006
+S00192,2023-05-24,Water management,VC030
+S00193,2023-05-09,Savings and loans,VC027
+S00194,2023-05-18,Vermicomposting,VC020
+S00195,2023-05-27,Pest management,VC030
+S00196,2023-05-05,Vermicomposting,VC001
+S00197,2023-05-10,Record keeping,VC006
+S00198,2023-05-25,Water management,VC016
+S00199,2023-05-27,Greenhouse basics,VC018
+S00200,2023-05-04,Vermicomposting,VC023
+S00201,2023-06-11,Greenhouse basics,VC030
+S00202,2023-06-11,Greenhouse basics,VC014
+S00203,2023-06-03,Record keeping,VC005
+S00204,2023-06-01,Record keeping,VC024
+S00205,2023-06-16,Greenhouse basics,VC011
+S00206,2023-06-11,Greenhouse basics,VC013
+S00207,2023-06-22,Greenhouse basics,VC013
+S00208,2023-06-21,Pest management,VC029
+S00209,2023-06-12,Water management,VC022
+S00210,2023-06-06,Record keeping,VC029
+S00211,2023-06-02,Vermicomposting,VC030
+S00212,2023-06-10,Savings and loans,VC008
+S00213,2023-06-20,Savings and loans,VC011
+S00214,2023-06-02,Greenhouse basics,VC020
+S00215,2023-06-03,Greenhouse basics,VC004
+S00216,2023-06-02,Vermicomposting,VC014
+S00217,2023-06-20,Pest management,VC030
+S00218,2023-06-01,Savings and loans,VC027
+S00219,2023-06-02,Savings and loans,VC009
+S00220,2023-06-07,Vermicomposting,VC017
+S00221,2023-06-11,Vermicomposting,VC020
+S00222,2023-06-01,Water management,VC006
+S00223,2023-06-07,Record keeping,VC023
+S00224,2023-06-04,Greenhouse basics,VC030
+S00225,2023-06-24,Savings and loans,VC019
+S00226,2023-06-05,Vermicomposting,VC019
+S00227,2023-06-16,Pest management,VC006
+S00228,2023-06-27,Pest management,VC021
+S00229,2023-06-19,Vermicomposting,VC009
+S00230,2023-06-05,Greenhouse basics,VC006
+S00231,2023-06-26,Vermicomposting,VC022
+S00232,2023-06-26,Water management,VC002
+S00233,2023-06-15,Vermicomposting,VC024
+S00234,2023-06-13,Greenhouse basics,VC010
+S00235,2023-06-22,Water management,VC005
+S00236,2023-06-10,Water management,VC030
+S00237,2023-06-13,Vermicomposting,VC030
+S00238,2023-06-27,Pest management,VC010
+S00239,2023-06-06,Water management,VC020
+S00240,2023-06-25,Pest management,VC019
+S00241,2023-07-22,Water management,VC026
+S00242,2023-07-17,Savings and loans,VC019
+S00243,2023-07-08,Water management,VC010
+S00244,2023-07-17,Greenhouse basics,VC009
+S00245,2023-07-17,Pest management,VC009
+S00246,2023-07-23,Savings and loans,VC014
+S00247,2023-07-17,Greenhouse basics,VC002
+S00248,2023-07-10,Water management,VC021
+S00249,2023-07-10,Vermicomposting,VC013
+S00250,2023-07-15,Savings and loans,VC018
+S00251,2023-07-23,Pest management,VC020
+S00252,2023-07-03,Savings and loans,VC015
+S00253,2023-07-09,Water management,VC024
+S00254,2023-07-03,Pest management,VC008
+S00255,2023-07-20,Record keeping,VC012
+S00256,2023-07-10,Record keeping,VC022
+S00257,2023-07-18,Savings and loans,VC028
+S00258,2023-07-03,Pest management,VC007
+S00259,2023-07-11,Vermicomposting,VC016
+S00260,2023-07-12,Savings and loans,VC008
+S00261,2023-07-11,Savings and loans,VC028
+S00262,2023-07-22,Greenhouse basics,VC018
+S00263,2023-07-01,Greenhouse basics,VC027
+S00264,2023-07-11,Water management,VC028
+S00265,2023-07-18,Water management,VC022
+S00266,2023-07-17,Pest management,VC001
+S00267,2023-07-21,Savings and loans,VC029
+S00268,2023-07-13,Vermicomposting,VC030
+S00269,2023-07-26,Greenhouse basics,VC026
+S00270,2023-07-19,Water management,VC002
+S00271,2023-07-03,Savings and loans,VC001
+S00272,2023-07-02,Savings and loans,VC028
+S00273,2023-07-07,Pest management,VC017
+S00274,2023-07-07,Record keeping,VC018
+S00275,2023-07-06,Vermicomposting,VC018
+S00276,2023-07-18,Record keeping,VC017
+S00277,2023-07-01,Greenhouse basics,VC019
+S00278,2023-07-19,Pest management,VC012
+S00279,2023-07-02,Pest management,VC028
+S00280,2023-07-13,Savings and loans,VC011
+S00281,2023-08-10,Record keeping,VC007
+S00282,2023-08-26,Greenhouse basics,VC015
+S00283,2023-08-20,Greenhouse basics,VC023
+S00284,2023-08-05,Greenhouse basics,VC008
+S00285,2023-08-02,Record keeping,VC012
+S00286,2023-08-02,Water management,VC023
+S00287,2023-08-08,Savings and loans,VC024
+S00288,2023-08-04,Savings and loans,VC019
+S00289,2023-08-21,Water management,VC021
+S00290,2023-08-24,Water management,VC006
+S00291,2023-08-22,Greenhouse basics,VC012
+S00292,2023-08-08,Water management,VC004
+S00293,2023-08-12,Water management,VC011
+S00294,2023-08-17,Vermicomposting,VC008
+S00295,2023-08-24,Vermicomposting,VC005
+S00296,2023-08-05,Vermicomposting,VC012
+S00297,2023-08-23,Savings and loans,VC023
+S00298,2023-08-09,Greenhouse basics,VC019
+S00299,2023-08-19,Pest management,VC009
+S00300,2023-08-26,Pest management,VC007
+S00301,2023-08-02,Water management,VC020
+S00302,2023-08-19,Record keeping,VC015
+S00303,2023-08-17,Water management,VC008
+S00304,2023-08-26,Vermicomposting,VC022
+S00305,2023-08-12,Water management,VC022
+S00306,2023-08-25,Pest management,VC030
+S00307,2023-08-08,Water management,VC002
+S00308,2023-08-17,Vermicomposting,VC024
+S00309,2023-08-03,Savings and loans,VC029
+S00310,2023-08-19,Pest management,VC011
+S00311,2023-08-09,Water management,VC007
+S00312,2023-08-18,Record keeping,VC009
+S00313,2023-08-17,Savings and loans,VC022
+S00314,2023-08-20,Vermicomposting,VC005
+S00315,2023-08-02,Savings and loans,VC021
+S00316,2023-08-27,Vermicomposting,VC015
+S00317,2023-08-02,Savings and loans,VC013
+S00318,2023-08-23,Vermicomposting,VC025
+S00319,2023-08-09,Pest management,VC021
+S00320,2023-08-16,Water management,VC010
+S00321,2023-09-19,Record keeping,VC007
+S00322,2023-09-18,Water management,VC003
+S00323,2023-09-11,Greenhouse basics,VC015
+S00324,2023-09-23,Record keeping,VC007
+S00325,2023-09-19,Savings and loans,VC022
+S00326,2023-09-11,Pest management,VC015
+S00327,2023-09-22,Vermicomposting,VC025
+S00328,2023-09-22,Water management,VC005
+S00329,2023-09-15,Pest management,VC003
+S00330,2023-09-10,Pest management,VC001
+S00331,2023-09-10,Savings and loans,VC022
+S00332,2023-09-04,Record keeping,VC001
+S00333,2023-09-17,Record keeping,VC004
+S00334,2023-09-13,Water management,VC004
+S00335,2023-09-09,Greenhouse basics,VC016
+S00336,2023-09-11,Greenhouse basics,VC003
+S00337,2023-09-16,Greenhouse basics,VC030
+S00338,2023-09-02,Vermicomposting,VC003
+S00339,2023-09-06,Vermicomposting,VC023
+S00340,2023-09-06,Savings and loans,VC007
+S00341,2023-09-14,Greenhouse basics,VC030
+S00342,2023-09-16,Vermicomposting,VC022
+S00343,2023-09-12,Greenhouse basics,VC030
+S00344,2023-09-17,Water management,VC024
+S00345,2023-09-12,Record keeping,VC013
+S00346,2023-09-07,Record keeping,VC027
+S00347,2023-09-26,Vermicomposting,VC029
+S00348,2023-09-20,Vermicomposting,VC027
+S00349,2023-09-16,Water management,VC002
+S00350,2023-09-08,Record keeping,VC003
+S00351,2023-09-10,Savings and loans,VC023
+S00352,2023-09-18,Greenhouse basics,VC015
+S00353,2023-09-13,Savings and loans,VC022
+S00354,2023-09-12,Greenhouse basics,VC004
+S00355,2023-09-07,Greenhouse basics,VC015
+S00356,2023-09-14,Record keeping,VC015
+S00357,2023-09-23,Pest management,VC014
+S00358,2023-09-05,Water management,VC007
+S00359,2023-09-20,Record keeping,VC020
+S00360,2023-09-02,Water management,VC012
+S00361,2023-10-19,Water management,VC004
+S00362,2023-10-06,Savings and loans,VC010
+S00363,2023-10-09,Pest management,VC010
+S00364,2023-10-23,Pest management,VC010
+S00365,2023-10-06,Vermicomposting,VC002
+S00366,2023-10-15,Greenhouse basics,VC027
+S00367,2023-10-24,Greenhouse basics,VC013
+S00368,2023-10-10,Pest management,VC002
+S00369,2023-10-01,Record keeping,VC011
+S00370,2023-10-25,Greenhouse basics,VC024
+S00371,2023-10-07,Savings and loans,VC011
+S00372,2023-10-06,Record keeping,VC026
+S00373,2023-10-24,Record keeping,VC019
+S00374,2023-10-16,Pest management,VC020
+S00375,2023-10-11,Water management,VC026
+S00376,2023-10-15,Savings and loans,VC019
+S00377,2023-10-10,Greenhouse basics,VC002
+S00378,2023-10-17,Savings and loans,VC007
+S00379,2023-10-26,Water management,VC025
+S00380,2023-10-22,Pest management,VC024
+S00381,2023-10-27,Savings and loans,VC004
+S00382,2023-10-04,Water management,VC009
+S00383,2023-10-12,Savings and loans,VC008
+S00384,2023-10-09,Vermicomposting,VC022
+S00385,2023-10-23,Greenhouse basics,VC024
+S00386,2023-10-20,Pest management,VC025
+S00387,2023-10-02,Record keeping,VC027
+S00388,2023-10-16,Greenhouse basics,VC007
+S00389,2023-10-06,Savings and loans,VC007
+S00390,2023-10-01,Vermicomposting,VC007
+S00391,2023-10-05,Water management,VC004
+S00392,2023-10-18,Savings and loans,VC009
+S00393,2023-10-10,Pest management,VC009
+S00394,2023-10-23,Savings and loans,VC026
+S00395,2023-10-21,Pest management,VC003
+S00396,2023-10-07,Water management,VC024
+S00397,2023-10-05,Pest management,VC008
+S00398,2023-10-17,Greenhouse basics,VC016
+S00399,2023-10-18,Savings and loans,VC019
+S00400,2023-10-06,Water management,VC008
+S00401,2023-11-04,Savings and loans,VC028
+S00402,2023-11-24,Vermicomposting,VC030
+S00403,2023-11-19,Water management,VC005
+S00404,2023-11-09,Water management,VC030
+S00405,2023-11-19,Vermicomposting,VC026
+S00406,2023-11-19,Record keeping,VC006
+S00407,2023-11-27,Pest management,VC012
+S00408,2023-11-04,Water management,VC024
+S00409,2023-11-09,Record keeping,VC029
+S00410,2023-11-18,Pest management,VC004
+S00411,2023-11-19,Vermicomposting,VC008
+S00412,2023-11-07,Record keeping,VC020
+S00413,2023-11-01,Savings and loans,VC011
+S00414,2023-11-13,Pest management,VC002
+S00415,2023-11-27,Water management,VC008
+S00416,2023-11-12,Savings and loans,VC022
+S00417,2023-11-14,Greenhouse basics,VC019
+S00418,2023-11-06,Pest management,VC020
+S00419,2023-11-15,Water management,VC009
+S00420,2023-11-27,Greenhouse basics,VC018
+S00421,2023-11-09,Vermicomposting,VC022
+S00422,2023-11-04,Vermicomposting,VC020
+S00423,2023-11-23,Water management,VC017
+S00424,2023-11-08,Water management,VC028
+S00425,2023-11-14,Greenhouse basics,VC006
+S00426,2023-11-24,Water management,VC005
+S00427,2023-11-20,Greenhouse basics,VC026
+S00428,2023-11-24,Greenhouse basics,VC027
+S00429,2023-11-05,Greenhouse basics,VC018
+S00430,2023-11-11,Greenhouse basics,VC023
+S00431,2023-11-17,Greenhouse basics,VC004
+S00432,2023-11-24,Greenhouse basics,VC002
+S00433,2023-11-05,Water management,VC023
+S00434,2023-11-09,Vermicomposting,VC001
+S00435,2023-11-08,Record keeping,VC007
+S00436,2023-11-03,Pest management,VC017
+S00437,2023-11-04,Savings and loans,VC002
+S00438,2023-11-11,Record keeping,VC021
+S00439,2023-11-03,Vermicomposting,VC002
+S00440,2023-11-09,Pest management,VC015
+S00441,2023-12-20,Water management,VC009
+S00442,2023-12-08,Vermicomposting,VC030
+S00443,2023-12-13,Vermicomposting,VC004
+S00444,2023-12-01,Water management,VC010
+S00445,2023-12-01,Water management,VC026
+S00446,2023-12-26,Record keeping,VC006
+S00447,2023-12-11,Savings and loans,VC028
+S00448,2023-12-02,Greenhouse basics,VC010
+S00449,2023-12-16,Water management,VC010
+S00450,2023-12-02,Water management,VC006
+S00451,2023-12-16,Pest management,VC011
+S00452,2023-12-17,Vermicomposting,VC001
+S00453,2023-12-27,Greenhouse basics,VC019
+S00454,2023-12-12,Water management,VC008
+S00455,2023-12-25,Record keeping,VC014
+S00456,2023-12-14,Water management,VC014
+S00457,2023-12-21,Savings and loans,VC023
+S00458,2023-12-06,Savings and loans,VC018
+S00459,2023-12-10,Record keeping,VC010
+S00460,2023-12-23,Savings and loans,VC026
+S00461,2023-12-08,Greenhouse basics,VC014
+S00462,2023-12-07,Greenhouse basics,VC012
+S00463,2023-12-20,Water management,VC025
+S00464,2023-12-06,Record keeping,VC021
+S00465,2023-12-25,Greenhouse basics,VC020
+S00466,2023-12-09,Greenhouse basics,VC001
+S00467,2023-12-10,Vermicomposting,VC004
+S00468,2023-12-25,Vermicomposting,VC002
+S00469,2023-12-12,Pest management,VC029
+S00470,2023-12-23,Savings and loans,VC020
+S00471,2023-12-09,Savings and loans,VC026
+S00472,2023-12-07,Vermicomposting,VC029
+S00473,2023-12-11,Record keeping,VC015
+S00474,2023-12-17,Water management,VC006
+S00475,2023-12-14,Vermicomposting,VC001
+S00476,2023-12-14,Vermicomposting,VC004
+S00477,2023-12-17,Savings and loans,VC005
+S00478,2023-12-15,Water management,VC006
+S00479,2023-12-20,Vermicomposting,VC020
+S00480,2023-12-21,Vermicomposting,VC008
+S00481,2024-01-11,Savings and loans,VC012
+S00482,2024-01-06,Water management,VC025
+S00483,2024-01-26,Greenhouse basics,VC001
+S00484,2024-01-19,Savings and loans,VC029
+S00485,2024-01-18,Vermicomposting,VC023
+S00486,2024-01-10,Savings and loans,VC009
+S00487,2024-01-21,Vermicomposting,VC018
+S00488,2024-01-22,Savings and loans,VC007
+S00489,2024-01-25,Vermicomposting,VC019
+S00490,2024-01-02,Water management,VC027
+S00491,2024-01-27,Pest management,VC007
+S00492,2024-01-18,Savings and loans,VC008
+S00493,2024-01-02,Savings and loans,VC004
+S00494,2024-01-23,Pest management,VC013
+S00495,2024-01-25,Record keeping,VC022
+S00496,2024-01-09,Water management,VC024
+S00497,2024-01-04,Pest management,VC027
+S00498,2024-01-19,Greenhouse basics,VC008
+S00499,2024-01-23,Greenhouse basics,VC029
+S00500,2024-01-04,Record keeping,VC021
+S00501,2024-01-22,Savings and loans,VC004
+S00502,2024-01-05,Water management,VC008
+S00503,2024-01-09,Pest management,VC017
+S00504,2024-01-23,Savings and loans,VC013
+S00505,2024-01-11,Pest management,VC020
+S00506,2024-01-08,Vermicomposting,VC014
+S00507,2024-01-23,Record keeping,VC025
+S00508,2024-01-02,Record keeping,VC008
+S00509,2024-01-25,Savings and loans,VC023
+S00510,2024-01-24,Pest management,VC012
+S00511,2024-01-05,Pest management,VC018
+S00512,2024-01-24,Water management,VC013
+S00513,2024-01-16,Savings and loans,VC020
+S00514,2024-01-22,Record keeping,VC026
+S00515,2024-01-08,Record keeping,VC016
+S00516,2024-01-06,Vermicomposting,VC023
+S00517,2024-01-07,Greenhouse basics,VC002
+S00518,2024-01-13,Savings and loans,VC016
+S00519,2024-01-13,Water management,VC025
+S00520,2024-01-11,Record keeping,VC028
+S00521,2024-02-01,Water management,VC024
+S00522,2024-02-02,Water management,VC021
+S00523,2024-02-07,Pest management,VC002
+S00524,2024-02-20,Water management,VC002
+S00525,2024-02-25,Vermicomposting,VC015
+S00526,2024-02-18,Savings and loans,VC005
+S00527,2024-02-25,Greenhouse basics,VC007
+S00528,2024-02-26,Savings and loans,VC005
+S00529,2024-02-02,Savings and loans,VC024
+S00530,2024-02-07,Pest management,VC004
+S00531,2024-02-06,Savings and loans,VC025
+S00532,2024-02-07,Savings and loans,VC009
+S00533,2024-02-23,Water management,VC027
+S00534,2024-02-11,Greenhouse basics,VC005
+S00535,2024-02-22,Record keeping,VC003
+S00536,2024-02-13,Record keeping,VC007
+S00537,2024-02-16,Water management,VC008
+S00538,2024-02-12,Pest management,VC001
+S00539,2024-02-22,Water management,VC018
+S00540,2024-02-11,Greenhouse basics,VC002
+S00541,2024-02-26,Greenhouse basics,VC011
+S00542,2024-02-12,Record keeping,VC023
+S00543,2024-02-24,Water management,VC005
+S00544,2024-02-18,Record keeping,VC014
+S00545,2024-02-01,Pest management,VC006
+S00546,2024-02-11,Water management,VC012
+S00547,2024-02-20,Savings and loans,VC001
+S00548,2024-02-04,Savings and loans,VC028
+S00549,2024-02-21,Water management,VC007
+S00550,2024-02-09,Greenhouse basics,VC003
+S00551,2024-02-18,Water management,VC008
+S00552,2024-02-16,Vermicomposting,VC027
+S00553,2024-02-20,Greenhouse basics,VC019
+S00554,2024-02-15,Savings and loans,VC011
+S00555,2024-02-14,Record keeping,VC022
+S00556,2024-02-21,Record keeping,VC030
+S00557,2024-02-20,Pest management,VC008
+S00558,2024-02-27,Pest management,VC010
+S00559,2024-02-01,Savings and loans,VC029
+S00560,2024-02-18,Water management,VC012
+S00561,2024-03-16,Pest management,VC022
+S00562,2024-03-01,Record keeping,VC003
+S00563,2024-03-25,Record keeping,VC004
+S00564,2024-03-04,Savings and loans,VC003
+S00565,2024-03-15,Water management,VC026
+S00566,2024-03-18,Record keeping,VC005
+S00567,2024-03-14,Water management,VC007
+S00568,2024-03-11,Pest management,VC018
+S00569,2024-03-21,Water management,VC013
+S00570,2024-03-27,Water management,VC029
+S00571,2024-03-18,Record keeping,VC004
+S00572,2024-03-27,Pest management,VC009
+S00573,2024-03-19,Greenhouse basics,VC026
+S00574,2024-03-18,Water management,VC028
+S00575,2024-03-26,Pest management,VC003
+S00576,2024-03-03,Vermicomposting,VC020
+S00577,2024-03-13,Greenhouse basics,VC010
+S00578,2024-03-16,Greenhouse basics,VC012
+S00579,2024-03-14,Record keeping,VC024
+S00580,2024-03-02,Water management,VC010
+S00581,2024-03-06,Pest management,VC027
+S00582,2024-03-04,Water management,VC020
+S00583,2024-03-01,Pest management,VC012
+S00584,2024-03-12,Water management,VC029
+S00585,2024-03-01,Greenhouse basics,VC030
+S00586,2024-03-02,Pest management,VC020
+S00587,2024-03-07,Savings and loans,VC014
+S00588,2024-03-21,Vermicomposting,VC009
+S00589,2024-03-03,Greenhouse basics,VC020
+S00590,2024-03-15,Greenhouse basics,VC009
+S00591,2024-03-06,Vermicomposting,VC022
+S00592,2024-03-07,Greenhouse basics,VC026
+S00593,2024-03-03,Vermicomposting,VC008
+S00594,2024-03-10,Record keeping,VC027
+S00595,2024-03-06,Record keeping,VC023
+S00596,2024-03-15,Greenhouse basics,VC030
+S00597,2024-03-05,Greenhouse basics,VC029
+S00598,2024-03-19,Savings and loans,VC010
+S00599,2024-03-25,Vermicomposting,VC013
+S00600,2024-03-27,Greenhouse basics,VC014
+S00601,2024-04-24,Pest management,VC015
+S00602,2024-04-14,Record keeping,VC025
+S00603,2024-04-24,Pest management,VC009
+S00604,2024-04-27,Savings and loans,VC010
+S00605,2024-04-21,Pest management,VC011
+S00606,2024-04-13,Record keeping,VC015
+S00607,2024-04-01,Greenhouse basics,VC010
+S00608,2024-04-22,Vermicomposting,VC014
+S00609,2024-04-12,Greenhouse basics,VC001
+S00610,2024-04-12,Record keeping,VC011
+S00611,2024-04-18,Pest management,VC028
+S00612,2024-04-06,Vermicomposting,VC022
+S00613,2024-04-26,Vermicomposting,VC026
+S00614,2024-04-04,Greenhouse basics,VC013
+S00615,2024-04-09,Greenhouse basics,VC028
+S00616,2024-04-04,Record keeping,VC006
+S00617,2024-04-23,Water management,VC007
+S00618,2024-04-17,Record keeping,VC010
+S00619,2024-04-16,Vermicomposting,VC015
+S00620,2024-04-01,Record keeping,VC021
+S00621,2024-04-04,Vermicomposting,VC018
+S00622,2024-04-21,Record keeping,VC005
+S00623,2024-04-09,Pest management,VC005
+S00624,2024-04-13,Greenhouse basics,VC028
+S00625,2024-04-06,Vermicomposting,VC008
+S00626,2024-04-17,Savings and loans,VC024
+S00627,2024-04-05,Record keeping,VC002
+S00628,2024-04-21,Pest management,VC030
+S00629,2024-04-02,Savings and loans,VC010
+S00630,2024-04-02,Vermicomposting,VC029
+S00631,2024-04-14,Water management,VC002
+S00632,2024-04-22,Savings and loans,VC012
+S00633,2024-04-11,Pest management,VC013
+S00634,2024-04-06,Greenhouse basics,VC008
+S00635,2024-04-25,Water management,VC025
+S00636,2024-04-09,Greenhouse basics,VC019
+S00637,2024-04-23,Vermicomposting,VC002
+S00638,2024-04-20,Vermicomposting,VC010
+S00639,2024-04-06,Pest management,VC006
+S00640,2024-04-08,Water management,VC022
+S00641,2024-05-18,Record keeping,VC018
+S00642,2024-05-20,Water management,VC023
+S00643,2024-05-17,Savings and loans,VC018
+S00644,2024-05-21,Record keeping,VC026
+S00645,2024-05-20,Vermicomposting,VC017
+S00646,2024-05-08,Water management,VC013
+S00647,2024-05-10,Savings and loans,VC023
+S00648,2024-05-23,Vermicomposting,VC028
+S00649,2024-05-06,Pest management,VC014
+S00650,2024-05-24,Vermicomposting,VC018
+S00651,2024-05-27,Savings and loans,VC013
+S00652,2024-05-22,Vermicomposting,VC017
+S00653,2024-05-19,Water management,VC026
+S00654,2024-05-20,Savings and loans,VC014
+S00655,2024-05-04,Record keeping,VC006
+S00656,2024-05-08,Record keeping,VC022
+S00657,2024-05-27,Record keeping,VC028
+S00658,2024-05-21,Vermicomposting,VC024
+S00659,2024-05-26,Water management,VC002
+S00660,2024-05-26,Water management,VC021
+S00661,2024-05-08,Pest management,VC004
+S00662,2024-05-09,Vermicomposting,VC010
+S00663,2024-05-18,Record keeping,VC023
+S00664,2024-05-15,Water management,VC013
+S00665,2024-05-11,Record keeping,VC018
+S00666,2024-05-18,Pest management,VC020
+S00667,2024-05-19,Pest management,VC009
+S00668,2024-05-03,Record keeping,VC009
+S00669,2024-05-09,Savings and loans,VC001
+S00670,2024-05-27,Pest management,VC024
+S00671,2024-05-18,Record keeping,VC029
+S00672,2024-05-14,Savings and loans,VC030
+S00673,2024-05-20,Pest management,VC001
+S00674,2024-05-26,Greenhouse basics,VC010
+S00675,2024-05-25,Water management,VC010
+S00676,2024-05-15,Water management,VC014
+S00677,2024-05-01,Record keeping,VC007
+S00678,2024-05-07,Savings and loans,VC008
+S00679,2024-05-07,Water management,VC023
+S00680,2024-05-26,Savings and loans,VC027
+S00681,2024-06-22,Pest management,VC022
+S00682,2024-06-23,Greenhouse basics,VC014
+S00683,2024-06-26,Pest management,VC006
+S00684,2024-06-19,Vermicomposting,VC009
+S00685,2024-06-27,Water management,VC008
+S00686,2024-06-23,Savings and loans,VC004
+S00687,2024-06-10,Savings and loans,VC018
+S00688,2024-06-27,Savings and loans,VC018
+S00689,2024-06-17,Greenhouse basics,VC009
+S00690,2024-06-03,Pest management,VC019
+S00691,2024-06-23,Record keeping,VC021
+S00692,2024-06-22,Greenhouse basics,VC023
+S00693,2024-06-03,Water management,VC020
+S00694,2024-06-01,Pest management,VC023
+S00695,2024-06-12,Record keeping,VC011
+S00696,2024-06-23,Savings and loans,VC010
+S00697,2024-06-22,Water management,VC017
+S00698,2024-06-20,Record keeping,VC020
+S00699,2024-06-11,Savings and loans,VC021
+S00700,2024-06-10,Water management,VC002
+S00701,2024-06-12,Vermicomposting,VC009
+S00702,2024-06-20,Greenhouse basics,VC011
+S00703,2024-06-07,Record keeping,VC014
+S00704,2024-06-08,Savings and loans,VC008
+S00705,2024-06-07,Pest management,VC025
+S00706,2024-06-02,Record keeping,VC013
+S00707,2024-06-17,Vermicomposting,VC002
+S00708,2024-06-08,Greenhouse basics,VC028
+S00709,2024-06-18,Greenhouse basics,VC015
+S00710,2024-06-22,Greenhouse basics,VC001
+S00711,2024-06-04,Vermicomposting,VC010
+S00712,2024-06-25,Greenhouse basics,VC002
+S00713,2024-06-08,Vermicomposting,VC022
+S00714,2024-06-03,Savings and loans,VC012
+S00715,2024-06-15,Pest management,VC013
+S00716,2024-06-09,Vermicomposting,VC020
+S00717,2024-06-18,Greenhouse basics,VC010
+S00718,2024-06-05,Greenhouse basics,VC011
+S00719,2024-06-06,Savings and loans,VC027
+S00720,2024-06-06,Water management,VC008
+S00721,2024-07-23,Pest management,VC020
+S00722,2024-07-14,Pest management,VC025
+S00723,2024-07-24,Record keeping,VC001
+S00724,2024-07-25,Greenhouse basics,VC025
+S00725,2024-07-22,Greenhouse basics,VC009
+S00726,2024-07-10,Water management,VC021
+S00727,2024-07-15,Greenhouse basics,VC007
+S00728,2024-07-12,Greenhouse basics,VC028
+S00729,2024-07-08,Water management,VC018
+S00730,2024-07-13,Vermicomposting,VC003
+S00731,2024-07-06,Savings and loans,VC026
+S00732,2024-07-25,Savings and loans,VC007
+S00733,2024-07-21,Greenhouse basics,VC022
+S00734,2024-07-04,Vermicomposting,VC013
+S00735,2024-07-11,Water management,VC018
+S00736,2024-07-14,Savings and loans,VC006
+S00737,2024-07-11,Savings and loans,VC016
+S00738,2024-07-17,Pest management,VC017
+S00739,2024-07-27,Water management,VC007
+S00740,2024-07-23,Pest management,VC017
+S00741,2024-07-26,Water management,VC025
+S00742,2024-07-11,Greenhouse basics,VC019
+S00743,2024-07-25,Savings and loans,VC011
+S00744,2024-07-25,Savings and loans,VC027
+S00745,2024-07-19,Water management,VC001
+S00746,2024-07-20,Record keeping,VC009
+S00747,2024-07-04,Record keeping,VC010
+S00748,2024-07-27,Record keeping,VC029
+S00749,2024-07-26,Savings and loans,VC029
+S00750,2024-07-04,Savings and loans,VC010
+S00751,2024-07-25,Vermicomposting,VC026
+S00752,2024-07-09,Water management,VC020
+S00753,2024-07-18,Water management,VC023
+S00754,2024-07-26,Savings and loans,VC004
+S00755,2024-07-02,Pest management,VC020
+S00756,2024-07-02,Water management,VC003
+S00757,2024-07-19,Greenhouse basics,VC024
+S00758,2024-07-04,Greenhouse basics,VC030
+S00759,2024-07-17,Savings and loans,VC024
+S00760,2024-07-23,Record keeping,VC023
+S00761,2024-08-11,Vermicomposting,VC026
+S00762,2024-08-24,Pest management,VC010
+S00763,2024-08-21,Vermicomposting,VC018
+S00764,2024-08-17,Water management,VC003
+S00765,2024-08-07,Vermicomposting,VC023
+S00766,2024-08-25,Record keeping,VC019
+S00767,2024-08-18,Greenhouse basics,VC009
+S00768,2024-08-24,Vermicomposting,VC002
+S00769,2024-08-18,Savings and loans,VC015
+S00770,2024-08-18,Record keeping,VC025
+S00771,2024-08-04,Record keeping,VC009
+S00772,2024-08-12,Water management,VC003
+S00773,2024-08-27,Greenhouse basics,VC014
+S00774,2024-08-02,Savings and loans,VC023
+S00775,2024-08-27,Savings and loans,VC030
+S00776,2024-08-27,Savings and loans,VC007
+S00777,2024-08-02,Record keeping,VC010
+S00778,2024-08-07,Record keeping,VC007
+S00779,2024-08-11,Savings and loans,VC013
+S00780,2024-08-03,Savings and loans,VC029
+S00781,2024-08-09,Record keeping,VC005
+S00782,2024-08-05,Savings and loans,VC005
+S00783,2024-08-21,Savings and loans,VC007
+S00784,2024-08-01,Greenhouse basics,VC008
+S00785,2024-08-06,Water management,VC029
+S00786,2024-08-11,Greenhouse basics,VC018
+S00787,2024-08-23,Water management,VC009
+S00788,2024-08-24,Savings and loans,VC013
+S00789,2024-08-11,Water management,VC003
+S00790,2024-08-25,Record keeping,VC017
+S00791,2024-08-13,Vermicomposting,VC005
+S00792,2024-08-10,Pest management,VC002
+S00793,2024-08-27,Vermicomposting,VC004
+S00794,2024-08-16,Pest management,VC026
+S00795,2024-08-20,Greenhouse basics,VC008
+S00796,2024-08-09,Pest management,VC007
+S00797,2024-08-21,Record keeping,VC001
+S00798,2024-08-05,Water management,VC020
+S00799,2024-08-04,Savings and loans,VC005
+S00800,2024-08-07,Greenhouse basics,VC026
+S00801,2024-09-09,Greenhouse basics,VC024
+S00802,2024-09-23,Record keeping,VC018
+S00803,2024-09-20,Water management,VC007
+S00804,2024-09-08,Greenhouse basics,VC029
+S00805,2024-09-11,Vermicomposting,VC008
+S00806,2024-09-14,Savings and loans,VC015
+S00807,2024-09-13,Water management,VC023
+S00808,2024-09-27,Record keeping,VC024
+S00809,2024-09-19,Vermicomposting,VC027
+S00810,2024-09-15,Water management,VC012
+S00811,2024-09-24,Savings and loans,VC005
+S00812,2024-09-22,Pest management,VC024
+S00813,2024-09-12,Pest management,VC006
+S00814,2024-09-01,Record keeping,VC009
+S00815,2024-09-01,Water management,VC026
+S00816,2024-09-04,Pest management,VC005
+S00817,2024-09-20,Greenhouse basics,VC019
+S00818,2024-09-25,Vermicomposting,VC030
+S00819,2024-09-01,Record keeping,VC029
+S00820,2024-09-22,Vermicomposting,VC004
+S00821,2024-09-18,Savings and loans,VC004
+S00822,2024-09-07,Record keeping,VC029
+S00823,2024-09-04,Water management,VC004
+S00824,2024-09-10,Pest management,VC001
+S00825,2024-09-02,Vermicomposting,VC017
+S00826,2024-09-27,Record keeping,VC007
+S00827,2024-09-02,Record keeping,VC009
+S00828,2024-09-09,Record keeping,VC020
+S00829,2024-09-08,Vermicomposting,VC030
+S00830,2024-09-22,Savings and loans,VC029
+S00831,2024-09-23,Record keeping,VC028
+S00832,2024-09-25,Water management,VC030
+S00833,2024-09-23,Vermicomposting,VC010
+S00834,2024-09-14,Savings and loans,VC008
+S00835,2024-09-26,Savings and loans,VC022
+S00836,2024-09-01,Water management,VC009
+S00837,2024-09-04,Pest management,VC005
+S00838,2024-09-27,Greenhouse basics,VC008
+S00839,2024-09-23,Greenhouse basics,VC024
+S00840,2024-09-20,Pest management,VC030
+S00841,2024-10-02,Pest management,VC004
+S00842,2024-10-23,Water management,VC014
+S00843,2024-10-10,Water management,VC007
+S00844,2024-10-09,Savings and loans,VC007
+S00845,2024-10-03,Pest management,VC028
+S00846,2024-10-21,Pest management,VC016
+S00847,2024-10-13,Savings and loans,VC012
+S00848,2024-10-16,Vermicomposting,VC016
+S00849,2024-10-22,Water management,VC029
+S00850,2024-10-01,Water management,VC014
+S00851,2024-10-09,Record keeping,VC001
+S00852,2024-10-09,Greenhouse basics,VC013
+S00853,2024-10-02,Pest management,VC011
+S00854,2024-10-06,Record keeping,VC020
+S00855,2024-10-23,Vermicomposting,VC007
+S00856,2024-10-09,Vermicomposting,VC027
+S00857,2024-10-27,Savings and loans,VC017
+S00858,2024-10-18,Water management,VC005
+S00859,2024-10-27,Water management,VC001
+S00860,2024-10-26,Greenhouse basics,VC011
+S00861,2024-10-13,Vermicomposting,VC017
+S00862,2024-10-06,Greenhouse basics,VC012
+S00863,2024-10-14,Water management,VC024
+S00864,2024-10-04,Vermicomposting,VC023
+S00865,2024-10-20,Record keeping,VC017
+S00866,2024-10-20,Greenhouse basics,VC030
+S00867,2024-10-01,Vermicomposting,VC022
+S00868,2024-10-16,Pest management,VC015
+S00869,2024-10-26,Record keeping,VC006
+S00870,2024-10-17,Savings and loans,VC014
+S00871,2024-10-07,Greenhouse basics,VC029
+S00872,2024-10-05,Pest management,VC030
+S00873,2024-10-15,Savings and loans,VC006
+S00874,2024-10-04,Water management,VC010
+S00875,2024-10-25,Savings and loans,VC020
+S00876,2024-10-05,Record keeping,VC016
+S00877,2024-10-27,Water management,VC001
+S00878,2024-10-08,Pest management,VC015
+S00879,2024-10-18,Record keeping,VC018
+S00880,2024-10-01,Record keeping,VC025
+S00881,2024-11-01,Record keeping,VC016
+S00882,2024-11-20,Greenhouse basics,VC030
+S00883,2024-11-23,Water management,VC016
+S00884,2024-11-16,Savings and loans,VC028
+S00885,2024-11-13,Greenhouse basics,VC026
+S00886,2024-11-20,Water management,VC023
+S00887,2024-11-09,Water management,VC027
+S00888,2024-11-20,Savings and loans,VC017
+S00889,2024-11-18,Greenhouse basics,VC026
+S00890,2024-11-07,Savings and loans,VC006
+S00891,2024-11-01,Savings and loans,VC008
+S00892,2024-11-20,Greenhouse basics,VC020
+S00893,2024-11-19,Pest management,VC006
+S00894,2024-11-09,Vermicomposting,VC018
+S00895,2024-11-18,Greenhouse basics,VC014
+S00896,2024-11-21,Greenhouse basics,VC022
+S00897,2024-11-03,Greenhouse basics,VC012
+S00898,2024-11-26,Greenhouse basics,VC029
+S00899,2024-11-21,Water management,VC008
+S00900,2024-11-23,Pest management,VC015
+S00901,2024-11-04,Savings and loans,VC008
+S00902,2024-11-24,Vermicomposting,VC022
+S00903,2024-11-12,Savings and loans,VC013
+S00904,2024-11-23,Water management,VC011
+S00905,2024-11-19,Savings and loans,VC008
+S00906,2024-11-08,Water management,VC009
+S00907,2024-11-20,Greenhouse basics,VC011
+S00908,2024-11-04,Record keeping,VC020
+S00909,2024-11-10,Record keeping,VC002
+S00910,2024-11-01,Savings and loans,VC015
+S00911,2024-11-24,Pest management,VC008
+S00912,2024-11-05,Savings and loans,VC030
+S00913,2024-11-17,Water management,VC024
+S00914,2024-11-23,Water management,VC004
+S00915,2024-11-23,Greenhouse basics,VC030
+S00916,2024-11-04,Greenhouse basics,VC006
+S00917,2024-11-25,Savings and loans,VC027
+S00918,2024-11-02,Savings and loans,VC026
+S00919,2024-11-02,Record keeping,VC006
+S00920,2024-11-18,Vermicomposting,VC023
+S00921,2024-12-03,Greenhouse basics,VC009
+S00922,2024-12-06,Pest management,VC030
+S00923,2024-12-18,Record keeping,VC020
+S00924,2024-12-22,Water management,VC016
+S00925,2024-12-02,Savings and loans,VC017
+S00926,2024-12-04,Vermicomposting,VC014
+S00927,2024-12-19,Pest management,VC022
+S00928,2024-12-20,Pest management,VC017
+S00929,2024-12-16,Vermicomposting,VC030
+S00930,2024-12-15,Water management,VC020
+S00931,2024-12-16,Vermicomposting,VC029
+S00932,2024-12-16,Pest management,VC012
+S00933,2024-12-20,Record keeping,VC011
+S00934,2024-12-08,Vermicomposting,VC007
+S00935,2024-12-08,Vermicomposting,VC016
+S00936,2024-12-24,Greenhouse basics,VC030
+S00937,2024-12-26,Water management,VC025
+S00938,2024-12-16,Water management,VC015
+S00939,2024-12-20,Water management,VC006
+S00940,2024-12-05,Greenhouse basics,VC017
+S00941,2024-12-08,Pest management,VC022
+S00942,2024-12-19,Vermicomposting,VC029
+S00943,2024-12-15,Savings and loans,VC016
+S00944,2024-12-24,Greenhouse basics,VC011
+S00945,2024-12-05,Savings and loans,VC006
+S00946,2024-12-21,Record keeping,VC021
+S00947,2024-12-23,Pest management,VC008
+S00948,2024-12-17,Water management,VC015
+S00949,2024-12-18,Pest management,VC006
+S00950,2024-12-15,Water management,VC010
+S00951,2024-12-26,Greenhouse basics,VC022
+S00952,2024-12-03,Record keeping,VC010
+S00953,2024-12-15,Pest management,VC010
+S00954,2024-12-17,Pest management,VC025
+S00955,2024-12-08,Water management,VC015
+S00956,2024-12-24,Water management,VC003
+S00957,2024-12-14,Savings and loans,VC007
+S00958,2024-12-16,Water management,VC016
+S00959,2024-12-11,Record keeping,VC013
+S00960,2024-12-02,Pest management,VC026
+S00961,2025-01-14,Savings and loans,VC020
+S00962,2025-01-23,Pest management,VC013
+S00963,2025-01-18,Water management,VC020
+S00964,2025-01-27,Vermicomposting,VC014
+S00965,2025-01-20,Record keeping,VC019
+S00966,2025-01-02,Pest management,VC009
+S00967,2025-01-12,Savings and loans,VC016
+S00968,2025-01-11,Vermicomposting,VC023
+S00969,2025-01-03,Record keeping,VC010
+S00970,2025-01-24,Record keeping,VC004
+S00971,2025-01-18,Greenhouse basics,VC023
+S00972,2025-01-11,Savings and loans,VC013
+S00973,2025-01-20,Greenhouse basics,VC005
+S00974,2025-01-13,Greenhouse basics,VC008
+S00975,2025-01-12,Water management,VC002
+S00976,2025-01-18,Record keeping,VC010
+S00977,2025-01-08,Savings and loans,VC004
+S00978,2025-01-18,Pest management,VC004
+S00979,2025-01-12,Pest management,VC014
+S00980,2025-01-18,Water management,VC019
+S00981,2025-01-03,Vermicomposting,VC021
+S00982,2025-01-03,Pest management,VC016
+S00983,2025-01-06,Greenhouse basics,VC005
+S00984,2025-01-11,Savings and loans,VC012
+S00985,2025-01-27,Greenhouse basics,VC024
+S00986,2025-01-27,Savings and loans,VC005
+S00987,2025-01-03,Record keeping,VC006
+S00988,2025-01-05,Pest management,VC004
+S00989,2025-01-22,Vermicomposting,VC015
+S00990,2025-01-22,Greenhouse basics,VC021
+S00991,2025-01-07,Vermicomposting,VC003
+S00992,2025-01-04,Record keeping,VC018
+S00993,2025-01-13,Savings and loans,VC006
+S00994,2025-01-04,Pest management,VC019
+S00995,2025-01-02,Record keeping,VC017
+S00996,2025-01-16,Record keeping,VC001
+S00997,2025-01-18,Vermicomposting,VC030
+S00998,2025-01-25,Water management,VC008
+S00999,2025-01-05,Water management,VC008
+S01000,2025-01-19,Record keeping,VC008
+S01001,2025-02-20,Record keeping,VC010
+S01002,2025-02-15,Water management,VC019
+S01003,2025-02-25,Water management,VC015
+S01004,2025-02-08,Savings and loans,VC014
+S01005,2025-02-05,Savings and loans,VC011
+S01006,2025-02-24,Greenhouse basics,VC029
+S01007,2025-02-02,Vermicomposting,VC007
+S01008,2025-02-01,Record keeping,VC009
+S01009,2025-02-12,Vermicomposting,VC028
+S01010,2025-02-05,Greenhouse basics,VC001
+S01011,2025-02-17,Greenhouse basics,VC007
+S01012,2025-02-16,Greenhouse basics,VC019
+S01013,2025-02-07,Water management,VC018
+S01014,2025-02-23,Vermicomposting,VC014
+S01015,2025-02-17,Water management,VC030
+S01016,2025-02-11,Savings and loans,VC019
+S01017,2025-02-03,Water management,VC024
+S01018,2025-02-11,Vermicomposting,VC009
+S01019,2025-02-06,Greenhouse basics,VC004
+S01020,2025-02-18,Record keeping,VC014
+S01021,2025-02-02,Vermicomposting,VC028
+S01022,2025-02-27,Greenhouse basics,VC030
+S01023,2025-02-02,Vermicomposting,VC003
+S01024,2025-02-24,Greenhouse basics,VC030
+S01025,2025-02-06,Greenhouse basics,VC022
+S01026,2025-02-20,Record keeping,VC016
+S01027,2025-02-12,Savings and loans,VC030
+S01028,2025-02-10,Savings and loans,VC027
+S01029,2025-02-17,Pest management,VC015
+S01030,2025-02-07,Vermicomposting,VC023
+S01031,2025-02-23,Savings and loans,VC009
+S01032,2025-02-10,Vermicomposting,VC004
+S01033,2025-02-19,Vermicomposting,VC015
+S01034,2025-02-21,Greenhouse basics,VC020
+S01035,2025-02-26,Greenhouse basics,VC008
+S01036,2025-02-03,Water management,VC015
+S01037,2025-02-25,Greenhouse basics,VC019
+S01038,2025-02-10,Pest management,VC006
+S01039,2025-02-14,Vermicomposting,VC022
+S01040,2025-02-26,Record keeping,VC018
+S01041,2025-03-08,Pest management,VC006
+S01042,2025-03-08,Greenhouse basics,VC004
+S01043,2025-03-09,Vermicomposting,VC025
+S01044,2025-03-06,Greenhouse basics,VC025
+S01045,2025-03-08,Pest management,VC002
+S01046,2025-03-11,Record keeping,VC014
+S01047,2025-03-21,Pest management,VC009
+S01048,2025-03-17,Water management,VC017
+S01049,2025-03-05,Record keeping,VC018
+S01050,2025-03-01,Vermicomposting,VC006
+S01051,2025-03-06,Savings and loans,VC017
+S01052,2025-03-27,Record keeping,VC029
+S01053,2025-03-09,Record keeping,VC027
+S01054,2025-03-13,Water management,VC023
+S01055,2025-03-07,Vermicomposting,VC018
+S01056,2025-03-07,Water management,VC022
+S01057,2025-03-07,Vermicomposting,VC013
+S01058,2025-03-11,Greenhouse basics,VC024
+S01059,2025-03-25,Vermicomposting,VC019
+S01060,2025-03-27,Greenhouse basics,VC009
+S01061,2025-03-03,Vermicomposting,VC024
+S01062,2025-03-07,Vermicomposting,VC020
+S01063,2025-03-15,Record keeping,VC030
+S01064,2025-03-20,Vermicomposting,VC007
+S01065,2025-03-22,Vermicomposting,VC003
+S01066,2025-03-23,Vermicomposting,VC001
+S01067,2025-03-22,Pest management,VC013
+S01068,2025-03-08,Water management,VC007
+S01069,2025-03-02,Record keeping,VC016
+S01070,2025-03-06,Water management,VC025
+S01071,2025-03-07,Savings and loans,VC029
+S01072,2025-03-01,Savings and loans,VC024
+S01073,2025-03-08,Savings and loans,VC018
+S01074,2025-03-10,Pest management,VC004
+S01075,2025-03-15,Greenhouse basics,VC024
+S01076,2025-03-21,Pest management,VC017
+S01077,2025-03-25,Greenhouse basics,VC024
+S01078,2025-03-25,Savings and loans,VC002
+S01079,2025-03-22,Record keeping,VC008
+S01080,2025-03-25,Savings and loans,VC020
+S01081,2025-04-21,Vermicomposting,VC007
+S01082,2025-04-03,Vermicomposting,VC008
+S01083,2025-04-02,Greenhouse basics,VC016
+S01084,2025-04-10,Savings and loans,VC008
+S01085,2025-04-13,Water management,VC026
+S01086,2025-04-17,Savings and loans,VC008
+S01087,2025-04-18,Savings and loans,VC021
+S01088,2025-04-24,Record keeping,VC015
+S01089,2025-04-17,Vermicomposting,VC014
+S01090,2025-04-24,Water management,VC017
+S01091,2025-04-14,Water management,VC008
+S01092,2025-04-11,Vermicomposting,VC016
+S01093,2025-04-16,Greenhouse basics,VC015
+S01094,2025-04-24,Water management,VC021
+S01095,2025-04-16,Pest management,VC015
+S01096,2025-04-20,Water management,VC021
+S01097,2025-04-06,Greenhouse basics,VC001
+S01098,2025-04-25,Record keeping,VC009
+S01099,2025-04-16,Savings and loans,VC018
+S01100,2025-04-20,Pest management,VC002
+S01101,2025-04-02,Record keeping,VC017
+S01102,2025-04-25,Greenhouse basics,VC029
+S01103,2025-04-23,Record keeping,VC022
+S01104,2025-04-01,Savings and loans,VC025
+S01105,2025-04-17,Record keeping,VC002
+S01106,2025-04-26,Pest management,VC029
+S01107,2025-04-17,Savings and loans,VC002
+S01108,2025-04-27,Savings and loans,VC019
+S01109,2025-04-11,Pest management,VC005
+S01110,2025-04-01,Savings and loans,VC025
+S01111,2025-04-12,Vermicomposting,VC011
+S01112,2025-04-02,Water management,VC024
+S01113,2025-04-04,Greenhouse basics,VC025
+S01114,2025-04-09,Savings and loans,VC011
+S01115,2025-04-16,Pest management,VC003
+S01116,2025-04-11,Water management,VC001
+S01117,2025-04-10,Record keeping,VC029
+S01118,2025-04-06,Savings and loans,VC010
+S01119,2025-04-24,Water management,VC004
+S01120,2025-04-14,Pest management,VC018
+S01121,2025-05-07,Greenhouse basics,VC009
+S01122,2025-05-07,Greenhouse basics,VC002
+S01123,2025-05-24,Record keeping,VC011
+S01124,2025-05-11,Greenhouse basics,VC013
+S01125,2025-05-19,Record keeping,VC006
+S01126,2025-05-13,Water management,VC022
+S01127,2025-05-12,Savings and loans,VC016
+S01128,2025-05-22,Pest management,VC005
+S01129,2025-05-11,Pest management,VC016
+S01130,2025-05-06,Vermicomposting,VC020
+S01131,2025-05-13,Greenhouse basics,VC015
+S01132,2025-05-14,Savings and loans,VC010
+S01133,2025-05-15,Pest management,VC012
+S01134,2025-05-17,Pest management,VC029
+S01135,2025-05-02,Pest management,VC017
+S01136,2025-05-18,Record keeping,VC028
+S01137,2025-05-03,Greenhouse basics,VC026
+S01138,2025-05-24,Record keeping,VC001
+S01139,2025-05-02,Water management,VC015
+S01140,2025-05-14,Savings and loans,VC028
+S01141,2025-05-03,Vermicomposting,VC005
+S01142,2025-05-10,Pest management,VC022
+S01143,2025-05-27,Water management,VC024
+S01144,2025-05-04,Greenhouse basics,VC019
+S01145,2025-05-14,Savings and loans,VC028
+S01146,2025-05-02,Water management,VC002
+S01147,2025-05-17,Greenhouse basics,VC009
+S01148,2025-05-04,Savings and loans,VC004
+S01149,2025-05-09,Record keeping,VC002
+S01150,2025-05-06,Vermicomposting,VC024
+S01151,2025-05-26,Water management,VC024
+S01152,2025-05-12,Record keeping,VC013
+S01153,2025-05-24,Savings and loans,VC011
+S01154,2025-05-21,Vermicomposting,VC024
+S01155,2025-05-05,Vermicomposting,VC028
+S01156,2025-05-18,Savings and loans,VC008
+S01157,2025-05-21,Water management,VC007
+S01158,2025-05-16,Record keeping,VC011
+S01159,2025-05-07,Greenhouse basics,VC001
+S01160,2025-05-24,Pest management,VC018
+S01161,2025-06-13,Greenhouse basics,VC014
+S01162,2025-06-16,Greenhouse basics,VC022
+S01163,2025-06-11,Greenhouse basics,VC009
+S01164,2025-06-19,Pest management,VC009
+S01165,2025-06-22,Water management,VC007
+S01166,2025-06-18,Savings and loans,VC026
+S01167,2025-06-25,Greenhouse basics,VC023
+S01168,2025-06-01,Savings and loans,VC017
+S01169,2025-06-18,Greenhouse basics,VC002
+S01170,2025-06-08,Vermicomposting,VC014
+S01171,2025-06-08,Pest management,VC001
+S01172,2025-06-23,Savings and loans,VC003
+S01173,2025-06-07,Record keeping,VC002
+S01174,2025-06-06,Water management,VC012
+S01175,2025-06-15,Water management,VC029
+S01176,2025-06-06,Savings and loans,VC019
+S01177,2025-06-14,Water management,VC028
+S01178,2025-06-26,Water management,VC017
+S01179,2025-06-20,Vermicomposting,VC002
+S01180,2025-06-06,Pest management,VC029
+S01181,2025-06-06,Pest management,VC020
+S01182,2025-06-17,Vermicomposting,VC019
+S01183,2025-06-15,Vermicomposting,VC011
+S01184,2025-06-06,Savings and loans,VC014
+S01185,2025-06-16,Record keeping,VC009
+S01186,2025-06-19,Pest management,VC018
+S01187,2025-06-20,Savings and loans,VC007
+S01188,2025-06-12,Vermicomposting,VC016
+S01189,2025-06-10,Greenhouse basics,VC002
+S01190,2025-06-20,Vermicomposting,VC008
+S01191,2025-06-25,Pest management,VC020
+S01192,2025-06-11,Record keeping,VC015
+S01193,2025-06-08,Vermicomposting,VC014
+S01194,2025-06-06,Greenhouse basics,VC003
+S01195,2025-06-21,Water management,VC020
+S01196,2025-06-01,Record keeping,VC030
+S01197,2025-06-27,Savings and loans,VC018
+S01198,2025-06-05,Water management,VC011
+S01199,2025-06-08,Savings and loans,VC006
+S01200,2025-06-01,Record keeping,VC017
+S01201,2025-07-04,Greenhouse basics,VC017
+S01202,2025-07-12,Greenhouse basics,VC017
+S01203,2025-07-05,Record keeping,VC019
+S01204,2025-07-10,Savings and loans,VC002
+S01205,2025-07-11,Water management,VC005
+S01206,2025-07-25,Greenhouse basics,VC018
+S01207,2025-07-15,Savings and loans,VC015
+S01208,2025-07-18,Savings and loans,VC026
+S01209,2025-07-06,Record keeping,VC024
+S01210,2025-07-06,Record keeping,VC025
+S01211,2025-07-19,Water management,VC024
+S01212,2025-07-26,Water management,VC002
+S01213,2025-07-10,Vermicomposting,VC006
+S01214,2025-07-25,Record keeping,VC019
+S01215,2025-07-27,Water management,VC022
+S01216,2025-07-10,Record keeping,VC011
+S01217,2025-07-23,Pest management,VC013
+S01218,2025-07-17,Record keeping,VC020
+S01219,2025-07-03,Greenhouse basics,VC008
+S01220,2025-07-14,Record keeping,VC020
+S01221,2025-07-24,Savings and loans,VC025
+S01222,2025-07-21,Record keeping,VC022
+S01223,2025-07-16,Pest management,VC016
+S01224,2025-07-14,Water management,VC007
+S01225,2025-07-15,Vermicomposting,VC013
+S01226,2025-07-11,Pest management,VC003
+S01227,2025-07-22,Water management,VC007
+S01228,2025-07-14,Water management,VC018
+S01229,2025-07-09,Vermicomposting,VC017
+S01230,2025-07-18,Record keeping,VC019
+S01231,2025-07-11,Water management,VC017
+S01232,2025-07-12,Vermicomposting,VC009
+S01233,2025-07-01,Greenhouse basics,VC030
+S01234,2025-07-24,Savings and loans,VC029
+S01235,2025-07-18,Record keeping,VC010
+S01236,2025-07-09,Record keeping,VC010
+S01237,2025-07-26,Greenhouse basics,VC017
+S01238,2025-07-24,Savings and loans,VC008
+S01239,2025-07-03,Savings and loans,VC008
+S01240,2025-07-03,Greenhouse basics,VC027
+S01241,2025-08-22,Greenhouse basics,VC009
+S01242,2025-08-26,Record keeping,VC005
+S01243,2025-08-01,Record keeping,VC026
+S01244,2025-08-24,Pest management,VC014
+S01245,2025-08-15,Record keeping,VC014
+S01246,2025-08-03,Record keeping,VC003
+S01247,2025-08-21,Greenhouse basics,VC011
+S01248,2025-08-19,Greenhouse basics,VC027
+S01249,2025-08-06,Pest management,VC001
+S01250,2025-08-19,Record keeping,VC023
+S01251,2025-08-14,Water management,VC001
+S01252,2025-08-07,Pest management,VC022
+S01253,2025-08-18,Savings and loans,VC030
+S01254,2025-08-14,Savings and loans,VC016
+S01255,2025-08-01,Water management,VC014
+S01256,2025-08-18,Water management,VC011
+S01257,2025-08-04,Vermicomposting,VC025
+S01258,2025-08-20,Record keeping,VC007
+S01259,2025-08-24,Greenhouse basics,VC003
+S01260,2025-08-11,Greenhouse basics,VC004
+S01261,2025-08-05,Vermicomposting,VC007
+S01262,2025-08-17,Record keeping,VC020
+S01263,2025-08-17,Record keeping,VC021
+S01264,2025-08-17,Pest management,VC014
+S01265,2025-08-06,Record keeping,VC010
+S01266,2025-08-09,Pest management,VC019
+S01267,2025-08-21,Record keeping,VC009
+S01268,2025-08-14,Savings and loans,VC005
+S01269,2025-08-12,Greenhouse basics,VC005
+S01270,2025-08-13,Greenhouse basics,VC004
+S01271,2025-08-04,Vermicomposting,VC002
+S01272,2025-08-02,Water management,VC012
+S01273,2025-08-16,Savings and loans,VC005
+S01274,2025-08-25,Vermicomposting,VC005
+S01275,2025-08-15,Savings and loans,VC026
+S01276,2025-08-09,Pest management,VC013
+S01277,2025-08-07,Pest management,VC017
+S01278,2025-08-06,Record keeping,VC007
+S01279,2025-08-21,Savings and loans,VC004
+S01280,2025-08-19,Savings and loans,VC012
+S01281,2025-09-01,Water management,VC019
+S01282,2025-09-12,Savings and loans,VC006
+S01283,2025-09-11,Greenhouse basics,VC009
+S01284,2025-09-12,Greenhouse basics,VC016
+S01285,2025-09-09,Vermicomposting,VC002
+S01286,2025-09-18,Vermicomposting,VC026
+S01287,2025-09-20,Greenhouse basics,VC026
+S01288,2025-09-15,Record keeping,VC029
+S01289,2025-09-08,Water management,VC002
+S01290,2025-09-18,Record keeping,VC011
+S01291,2025-09-20,Greenhouse basics,VC024
+S01292,2025-09-17,Vermicomposting,VC030
+S01293,2025-09-11,Savings and loans,VC001
+S01294,2025-09-21,Savings and loans,VC013
+S01295,2025-09-14,Vermicomposting,VC017
+S01296,2025-09-17,Pest management,VC028
+S01297,2025-09-16,Savings and loans,VC021
+S01298,2025-09-03,Pest management,VC015
+S01299,2025-09-24,Savings and loans,VC016
+S01300,2025-09-07,Water management,VC022
+S01301,2025-09-20,Greenhouse basics,VC010
+S01302,2025-09-26,Greenhouse basics,VC006
+S01303,2025-09-12,Pest management,VC028
+S01304,2025-09-22,Vermicomposting,VC027
+S01305,2025-09-10,Record keeping,VC025
+S01306,2025-09-22,Record keeping,VC027
+S01307,2025-09-14,Greenhouse basics,VC006
+S01308,2025-09-09,Vermicomposting,VC027
+S01309,2025-09-18,Vermicomposting,VC009
+S01310,2025-09-11,Greenhouse basics,VC007
+S01311,2025-09-20,Pest management,VC012
+S01312,2025-09-21,Record keeping,VC012
+S01313,2025-09-15,Vermicomposting,VC013
+S01314,2025-09-07,Record keeping,VC012
+S01315,2025-09-02,Greenhouse basics,VC011
+S01316,2025-09-03,Water management,VC014
+S01317,2025-09-23,Water management,VC028
+S01318,2025-09-25,Record keeping,VC028
+S01319,2025-09-22,Water management,VC019
+S01320,2025-09-13,Vermicomposting,VC020
+S01321,2025-10-13,Vermicomposting,VC008
+S01322,2025-10-06,Record keeping,VC012
+S01323,2025-10-10,Record keeping,VC028
+S01324,2025-10-22,Greenhouse basics,VC005
+S01325,2025-10-12,Greenhouse basics,VC012
+S01326,2025-10-15,Record keeping,VC018
+S01327,2025-10-07,Vermicomposting,VC016
+S01328,2025-10-07,Water management,VC007
+S01329,2025-10-20,Record keeping,VC030
+S01330,2025-10-11,Vermicomposting,VC027
+S01331,2025-10-27,Savings and loans,VC011
+S01332,2025-10-14,Pest management,VC006
+S01333,2025-10-26,Pest management,VC024
+S01334,2025-10-13,Pest management,VC015
+S01335,2025-10-08,Greenhouse basics,VC023
+S01336,2025-10-18,Record keeping,VC007
+S01337,2025-10-13,Greenhouse basics,VC029
+S01338,2025-10-14,Water management,VC029
+S01339,2025-10-09,Greenhouse basics,VC016
+S01340,2025-10-02,Savings and loans,VC027
+S01341,2025-10-17,Record keeping,VC027
+S01342,2025-10-12,Water management,VC003
+S01343,2025-10-18,Pest management,VC006
+S01344,2025-10-06,Pest management,VC019
+S01345,2025-10-24,Record keeping,VC011
+S01346,2025-10-15,Greenhouse basics,VC023
+S01347,2025-10-16,Vermicomposting,VC002
+S01348,2025-10-11,Water management,VC019
+S01349,2025-10-25,Pest management,VC009
+S01350,2025-10-09,Water management,VC005
+S01351,2025-10-07,Greenhouse basics,VC009
+S01352,2025-10-08,Greenhouse basics,VC029
+S01353,2025-10-17,Pest management,VC030
+S01354,2025-10-01,Vermicomposting,VC019
+S01355,2025-10-18,Greenhouse basics,VC011
+S01356,2025-10-14,Pest management,VC011
+S01357,2025-10-15,Water management,VC027
+S01358,2025-10-14,Savings and loans,VC010
+S01359,2025-10-21,Vermicomposting,VC027
+S01360,2025-10-19,Vermicomposting,VC015
+S01361,2025-11-11,Greenhouse basics,VC010
+S01362,2025-11-05,Pest management,VC027
+S01363,2025-11-02,Greenhouse basics,VC029
+S01364,2025-11-14,Vermicomposting,VC006
+S01365,2025-11-04,Savings and loans,VC030
+S01366,2025-11-21,Record keeping,VC028
+S01367,2025-11-17,Savings and loans,VC019
+S01368,2025-11-06,Water management,VC002
+S01369,2025-11-21,Vermicomposting,VC024
+S01370,2025-11-02,Record keeping,VC019
+S01371,2025-11-14,Pest management,VC015
+S01372,2025-11-12,Vermicomposting,VC025
+S01373,2025-11-02,Record keeping,VC030
+S01374,2025-11-11,Pest management,VC027
+S01375,2025-11-26,Water management,VC003
+S01376,2025-11-09,Pest management,VC023
+S01377,2025-11-07,Pest management,VC006
+S01378,2025-11-07,Pest management,VC010
+S01379,2025-11-07,Record keeping,VC018
+S01380,2025-11-27,Record keeping,VC029
+S01381,2025-11-02,Water management,VC021
+S01382,2025-11-10,Savings and loans,VC030
+S01383,2025-11-06,Vermicomposting,VC010
+S01384,2025-11-11,Water management,VC018
+S01385,2025-11-02,Vermicomposting,VC015
+S01386,2025-11-11,Savings and loans,VC027
+S01387,2025-11-26,Pest management,VC001
+S01388,2025-11-24,Greenhouse basics,VC029
+S01389,2025-11-08,Greenhouse basics,VC027
+S01390,2025-11-03,Record keeping,VC022
+S01391,2025-11-27,Pest management,VC015
+S01392,2025-11-05,Record keeping,VC024
+S01393,2025-11-23,Vermicomposting,VC026
+S01394,2025-11-02,Greenhouse basics,VC003
+S01395,2025-11-04,Pest management,VC013
+S01396,2025-11-06,Record keeping,VC017
+S01397,2025-11-03,Greenhouse basics,VC025
+S01398,2025-11-23,Vermicomposting,VC024
+S01399,2025-11-17,Water management,VC024
+S01400,2025-11-12,Water management,VC023
+S01401,2025-12-13,Record keeping,VC014
+S01402,2025-12-11,Water management,VC004
+S01403,2025-12-21,Savings and loans,VC027
+S01404,2025-12-02,Water management,VC013
+S01405,2025-12-20,Savings and loans,VC029
+S01406,2025-12-01,Vermicomposting,VC022
+S01407,2025-12-08,Savings and loans,VC010
+S01408,2025-12-24,Savings and loans,VC008
+S01409,2025-12-24,Pest management,VC013
+S01410,2025-12-23,Record keeping,VC012
+S01411,2025-12-08,Water management,VC012
+S01412,2025-12-08,Water management,VC028
+S01413,2025-12-07,Pest management,VC010
+S01414,2025-12-05,Vermicomposting,VC014
+S01415,2025-12-05,Pest management,VC022
+S01416,2025-12-22,Savings and loans,VC010
+S01417,2025-12-11,Pest management,VC028
+S01418,2025-12-09,Greenhouse basics,VC006
+S01419,2025-12-19,Water management,VC006
+S01420,2025-12-20,Water management,VC020
+S01421,2025-12-24,Greenhouse basics,VC021
+S01422,2025-12-22,Vermicomposting,VC001
+S01423,2025-12-27,Water management,VC005
+S01424,2025-12-04,Record keeping,VC026
+S01425,2025-12-27,Savings and loans,VC008
+S01426,2025-12-02,Greenhouse basics,VC017
+S01427,2025-12-10,Greenhouse basics,VC029
+S01428,2025-12-13,Vermicomposting,VC026
+S01429,2025-12-22,Vermicomposting,VC016
+S01430,2025-12-26,Savings and loans,VC014
+S01431,2025-12-23,Greenhouse basics,VC030
+S01432,2025-12-12,Greenhouse basics,VC023
+S01433,2025-12-14,Greenhouse basics,VC007
+S01434,2025-12-27,Greenhouse basics,VC012
+S01435,2025-12-13,Pest management,VC026
+S01436,2025-12-06,Vermicomposting,VC021
+S01437,2025-12-26,Savings and loans,VC006
+S01438,2025-12-16,Pest management,VC006
+S01439,2025-12-23,Savings and loans,VC029
+S01440,2025-12-22,Vermicomposting,VC020
+S01441,2026-01-17,Record keeping,VC018
+S01442,2026-01-27,Savings and loans,VC027
+S01443,2026-01-26,Record keeping,VC026
+S01444,2026-01-06,Vermicomposting,VC007
+S01445,2026-01-04,Greenhouse basics,VC007
+S01446,2026-01-24,Record keeping,VC003
+S01447,2026-01-25,Savings and loans,VC021
+S01448,2026-01-24,Record keeping,VC025
+S01449,2026-01-11,Record keeping,VC002
+S01450,2026-01-16,Savings and loans,VC005
+S01451,2026-01-12,Pest management,VC024
+S01452,2026-01-23,Greenhouse basics,VC016
+S01453,2026-01-19,Water management,VC026
+S01454,2026-01-17,Savings and loans,VC022
+S01455,2026-01-01,Greenhouse basics,VC030
+S01456,2026-01-07,Pest management,VC026
+S01457,2026-01-15,Pest management,VC012
+S01458,2026-01-12,Water management,VC028
+S01459,2026-01-26,Greenhouse basics,VC001
+S01460,2026-01-23,Greenhouse basics,VC008
+S01461,2026-01-02,Pest management,VC028
+S01462,2026-01-17,Vermicomposting,VC015
+S01463,2026-01-09,Greenhouse basics,VC013
+S01464,2026-01-17,Vermicomposting,VC012
+S01465,2026-01-05,Record keeping,VC008
+S01466,2026-01-26,Record keeping,VC021
+S01467,2026-01-17,Savings and loans,VC001
+S01468,2026-01-11,Record keeping,VC001
+S01469,2026-01-18,Savings and loans,VC023
+S01470,2026-01-07,Greenhouse basics,VC027
+S01471,2026-01-18,Record keeping,VC014
+S01472,2026-01-25,Savings and loans,VC012
+S01473,2026-01-23,Water management,VC007
+S01474,2026-01-23,Savings and loans,VC017
+S01475,2026-01-23,Vermicomposting,VC005
+S01476,2026-01-02,Vermicomposting,VC028
+S01477,2026-01-17,Savings and loans,VC015
+S01478,2026-01-19,Greenhouse basics,VC008
+S01479,2026-01-20,Pest management,VC013
+S01480,2026-01-24,Record keeping,VC030
+S01481,2026-02-08,Pest management,VC026
+S01482,2026-02-02,Record keeping,VC005
+S01483,2026-02-16,Pest management,VC025
+S01484,2026-02-16,Greenhouse basics,VC018
+S01485,2026-02-09,Water management,VC017
+S01486,2026-02-20,Savings and loans,VC004
+S01487,2026-02-13,Vermicomposting,VC027
+S01488,2026-02-19,Record keeping,VC014
+S01489,2026-02-02,Greenhouse basics,VC015
+S01490,2026-02-21,Savings and loans,VC015
+S01491,2026-02-15,Pest management,VC002
+S01492,2026-02-14,Record keeping,VC008
+S01493,2026-02-07,Record keeping,VC002
+S01494,2026-02-24,Water management,VC012
+S01495,2026-02-16,Greenhouse basics,VC030
+S01496,2026-02-20,Water management,VC019
+S01497,2026-02-18,Greenhouse basics,VC009
+S01498,2026-02-04,Greenhouse basics,VC030
+S01499,2026-02-20,Record keeping,VC015
+S01500,2026-02-24,Pest management,VC013
+S01501,2026-02-01,Greenhouse basics,VC001
+S01502,2026-02-04,Water management,VC022
+S01503,2026-02-09,Savings and loans,VC011
+S01504,2026-02-23,Pest management,VC021
+S01505,2026-02-11,Vermicomposting,VC023
+S01506,2026-02-21,Record keeping,VC029
+S01507,2026-02-27,Water management,VC027
+S01508,2026-02-07,Pest management,VC012
+S01509,2026-02-01,Water management,VC004
+S01510,2026-02-22,Savings and loans,VC007
+S01511,2026-02-05,Record keeping,VC008
+S01512,2026-02-27,Pest management,VC019
+S01513,2026-02-23,Savings and loans,VC029
+S01514,2026-02-27,Pest management,VC008
+S01515,2026-02-21,Pest management,VC003
+S01516,2026-02-08,Vermicomposting,VC022
+S01517,2026-02-08,Greenhouse basics,VC028
+S01518,2026-02-23,Water management,VC013
+S01519,2026-02-02,Greenhouse basics,VC024
+S01520,2026-02-22,Vermicomposting,VC027
+S01521,2026-03-26,Water management,VC018
+S01522,2026-03-11,Water management,VC006
+S01523,2026-03-23,Greenhouse basics,VC009
+S01524,2026-03-24,Savings and loans,VC019
+S01525,2026-03-22,Water management,VC009
+S01526,2026-03-03,Vermicomposting,VC029
+S01527,2026-03-17,Savings and loans,VC021
+S01528,2026-03-04,Greenhouse basics,VC026
+S01529,2026-03-21,Greenhouse basics,VC002
+S01530,2026-03-25,Record keeping,VC025
+S01531,2026-03-09,Savings and loans,VC002
+S01532,2026-03-07,Record keeping,VC012
+S01533,2026-03-10,Vermicomposting,VC024
+S01534,2026-03-23,Savings and loans,VC025
+S01535,2026-03-21,Pest management,VC009
+S01536,2026-03-07,Pest management,VC016
+S01537,2026-03-08,Greenhouse basics,VC021
+S01538,2026-03-20,Water management,VC016
+S01539,2026-03-20,Greenhouse basics,VC007
+S01540,2026-03-14,Vermicomposting,VC023
+S01541,2026-03-13,Vermicomposting,VC001
+S01542,2026-03-17,Savings and loans,VC015
+S01543,2026-03-15,Pest management,VC011
+S01544,2026-03-03,Vermicomposting,VC030
+S01545,2026-03-26,Water management,VC019
+S01546,2026-03-11,Greenhouse basics,VC015
+S01547,2026-03-04,Pest management,VC016
+S01548,2026-03-13,Record keeping,VC014
+S01549,2026-03-06,Savings and loans,VC016
+S01550,2026-03-07,Pest management,VC003
+S01551,2026-03-11,Record keeping,VC026
+S01552,2026-03-19,Water management,VC011
+S01553,2026-03-09,Vermicomposting,VC016
+S01554,2026-03-25,Savings and loans,VC028
+S01555,2026-03-23,Vermicomposting,VC007
+S01556,2026-03-02,Pest management,VC026
+S01557,2026-03-19,Greenhouse basics,VC011
+S01558,2026-03-20,Greenhouse basics,VC010
+S01559,2026-03-18,Savings and loans,VC025
+S01560,2026-03-05,Greenhouse basics,VC029
+S01561,2026-04-07,Water management,VC015
+S01562,2026-04-25,Pest management,VC017
+S01563,2026-04-01,Savings and loans,VC018
+S01564,2026-04-13,Savings and loans,VC013
+S01565,2026-04-18,Pest management,VC013
+S01566,2026-04-18,Record keeping,VC015
+S01567,2026-04-04,Record keeping,VC026
+S01568,2026-04-18,Greenhouse basics,VC001
+S01569,2026-04-01,Savings and loans,VC023
+S01570,2026-04-02,Greenhouse basics,VC013
+S01571,2026-04-26,Savings and loans,VC014
+S01572,2026-04-01,Pest management,VC003
+S01573,2026-04-09,Greenhouse basics,VC025
+S01574,2026-04-20,Vermicomposting,VC025
+S01575,2026-04-19,Record keeping,VC016
+S01576,2026-04-26,Greenhouse basics,VC019
+S01577,2026-04-03,Greenhouse basics,VC024
+S01578,2026-04-11,Water management,VC027
+S01579,2026-04-23,Greenhouse basics,VC010
+S01580,2026-04-23,Pest management,VC029
+S01581,2026-04-07,Water management,VC027
+S01582,2026-04-15,Vermicomposting,VC004
+S01583,2026-04-17,Water management,VC010
+S01584,2026-04-18,Record keeping,VC030
+S01585,2026-04-10,Greenhouse basics,VC008
+S01586,2026-04-19,Record keeping,VC013
+S01587,2026-04-16,Greenhouse basics,VC016
+S01588,2026-04-22,Pest management,VC008
+S01589,2026-04-06,Record keeping,VC027
+S01590,2026-04-08,Savings and loans,VC007
+S01591,2026-04-21,Pest management,VC023
+S01592,2026-04-01,Savings and loans,VC020
+S01593,2026-04-17,Record keeping,VC006
+S01594,2026-04-09,Record keeping,VC014
+S01595,2026-04-25,Vermicomposting,VC003
+S01596,2026-04-24,Record keeping,VC019
+S01597,2026-04-15,Record keeping,VC005
+S01598,2026-04-21,Savings and loans,VC018
+S01599,2026-04-09,Vermicomposting,VC024
+S01600,2026-04-19,Savings and loans,VC018
+S01601,2026-05-13,Vermicomposting,VC007
+S01602,2026-05-09,Record keeping,VC002
+S01603,2026-05-09,Record keeping,VC025
+S01604,2026-05-18,Pest management,VC027
+S01605,2026-05-06,Greenhouse basics,VC014
+S01606,2026-05-01,Record keeping,VC015
+S01607,2026-05-23,Vermicomposting,VC004
+S01608,2026-05-01,Record keeping,VC005
+S01609,2026-05-04,Vermicomposting,VC017
+S01610,2026-05-17,Greenhouse basics,VC011
+S01611,2026-05-05,Pest management,VC014
+S01612,2026-05-24,Greenhouse basics,VC005
+S01613,2026-05-06,Savings and loans,VC020
+S01614,2026-05-04,Savings and loans,VC011
+S01615,2026-05-14,Savings and loans,VC006
+S01616,2026-05-21,Water management,VC009
+S01617,2026-05-26,Savings and loans,VC015
+S01618,2026-05-21,Record keeping,VC030
+S01619,2026-05-08,Savings and loans,VC019
+S01620,2026-05-11,Savings and loans,VC029
+S01621,2026-05-23,Pest management,VC020
+S01622,2026-05-06,Savings and loans,VC001
+S01623,2026-05-20,Water management,VC011
+S01624,2026-05-21,Savings and loans,VC008
+S01625,2026-05-19,Greenhouse basics,VC018
+S01626,2026-05-10,Vermicomposting,VC029
+S01627,2026-05-23,Record keeping,VC017
+S01628,2026-05-23,Greenhouse basics,VC003
+S01629,2026-05-08,Savings and loans,VC008
+S01630,2026-05-06,Record keeping,VC002
+S01631,2026-05-03,Vermicomposting,VC022
+S01632,2026-05-25,Pest management,VC001
+S01633,2026-05-06,Pest management,VC008
+S01634,2026-05-03,Record keeping,VC020
+S01635,2026-05-23,Savings and loans,VC005
+S01636,2026-05-18,Water management,VC023
+S01637,2026-05-08,Pest management,VC013
+S01638,2026-05-22,Pest management,VC016
+S01639,2026-05-27,Water management,VC006
+S01640,2026-05-21,Record keeping,VC028
+S01641,2026-06-12,Water management,VC024
+S01642,2026-06-16,Record keeping,VC004
+S01643,2026-06-20,Greenhouse basics,VC016
+S01644,2026-06-17,Savings and loans,VC010
+S01645,2026-06-25,Record keeping,VC010
+S01646,2026-06-03,Savings and loans,VC022
+S01647,2026-06-17,Water management,VC003
+S01648,2026-06-20,Vermicomposting,VC024
+S01649,2026-06-14,Savings and loans,VC023
+S01650,2026-06-23,Greenhouse basics,VC008
+S01651,2026-06-09,Greenhouse basics,VC023
+S01652,2026-06-06,Record keeping,VC030
+S01653,2026-06-23,Pest management,VC003
+S01654,2026-06-10,Pest management,VC016
+S01655,2026-06-19,Savings and loans,VC016
+S01656,2026-06-18,Water management,VC001
+S01657,2026-06-17,Savings and loans,VC006
+S01658,2026-06-26,Savings and loans,VC007
+S01659,2026-06-15,Greenhouse basics,VC002
+S01660,2026-06-02,Record keeping,VC027
+S01661,2026-06-20,Greenhouse basics,VC010
+S01662,2026-06-19,Greenhouse basics,VC025
+S01663,2026-06-01,Savings and loans,VC002
+S01664,2026-06-02,Savings and loans,VC005
+S01665,2026-06-23,Vermicomposting,VC027
+S01666,2026-06-21,Record keeping,VC028
+S01667,2026-06-17,Pest management,VC023
+S01668,2026-06-19,Water management,VC021
+S01669,2026-06-11,Record keeping,VC029
+S01670,2026-06-20,Record keeping,VC001
+S01671,2026-06-21,Pest management,VC021
+S01672,2026-06-08,Savings and loans,VC002
+S01673,2026-06-05,Record keeping,VC009
+S01674,2026-06-05,Vermicomposting,VC011
+S01675,2026-06-20,Record keeping,VC003
+S01676,2026-06-09,Pest management,VC006
+S01677,2026-06-11,Savings and loans,VC028
+S01678,2026-06-12,Water management,VC022
+S01679,2026-06-09,Water management,VC012
+S01680,2026-06-24,Record keeping,VC013
+S01681,2026-07-18,Vermicomposting,VC026
+S01682,2026-07-11,Pest management,VC016
+S01683,2026-07-10,Savings and loans,VC026
+S01684,2026-07-24,Pest management,VC014
+S01685,2026-07-12,Water management,VC025
+S01686,2026-07-17,Greenhouse basics,VC001
+S01687,2026-07-19,Vermicomposting,VC023
+S01688,2026-07-02,Greenhouse basics,VC011
+S01689,2026-07-11,Greenhouse basics,VC010
+S01690,2026-07-06,Greenhouse basics,VC016
+S01691,2026-07-14,Water management,VC009
+S01692,2026-07-14,Record keeping,VC018
+S01693,2026-07-02,Greenhouse basics,VC009
+S01694,2026-07-02,Vermicomposting,VC028
+S01695,2026-07-26,Pest management,VC025
+S01696,2026-07-05,Savings and loans,VC012
+S01697,2026-07-14,Pest management,VC016
+S01698,2026-07-25,Pest management,VC012
+S01699,2026-07-02,Greenhouse basics,VC018
+S01700,2026-07-23,Vermicomposting,VC025
+S01701,2026-07-05,Pest management,VC003
+S01702,2026-07-16,Pest management,VC005
+S01703,2026-07-06,Greenhouse basics,VC024
+S01704,2026-07-21,Savings and loans,VC013
+S01705,2026-07-13,Greenhouse basics,VC009
+S01706,2026-07-15,Greenhouse basics,VC022
+S01707,2026-07-06,Savings and loans,VC011
+S01708,2026-07-08,Pest management,VC008
+S01709,2026-07-13,Record keeping,VC021
+S01710,2026-07-10,Record keeping,VC022
+S01711,2026-07-25,Greenhouse basics,VC024
+S01712,2026-07-01,Vermicomposting,VC013
+S01713,2026-07-07,Savings and loans,VC015
+S01714,2026-07-04,Vermicomposting,VC027
+S01715,2026-07-07,Greenhouse basics,VC009
+S01716,2026-07-24,Water management,VC007
+S01717,2026-07-24,Vermicomposting,VC016
+S01718,2026-07-23,Water management,VC014
+S01719,2026-07-21,Water management,VC010
+S01720,2026-07-21,Greenhouse basics,VC027
+S01721,2026-08-24,Savings and loans,VC030
+S01722,2026-08-20,Pest management,VC029
+S01723,2026-08-06,Record keeping,VC015
+S01724,2026-08-11,Pest management,VC005
+S01725,2026-08-18,Water management,VC007
+S01726,2026-08-19,Pest management,VC007
+S01727,2026-08-16,Savings and loans,VC015
+S01728,2026-08-16,Greenhouse basics,VC017
+S01729,2026-08-14,Record keeping,VC002
+S01730,2026-08-06,Greenhouse basics,VC022
+S01731,2026-08-25,Savings and loans,VC017
+S01732,2026-08-25,Pest management,VC018
+S01733,2026-08-01,Water management,VC018
+S01734,2026-08-25,Greenhouse basics,VC014
+S01735,2026-08-10,Record keeping,VC003
+S01736,2026-08-17,Water management,VC016
+S01737,2026-08-13,Pest management,VC018
+S01738,2026-08-13,Greenhouse basics,VC003
+S01739,2026-08-10,Greenhouse basics,VC020
+S01740,2026-08-21,Savings and loans,VC027
+S01741,2026-08-03,Greenhouse basics,VC027
+S01742,2026-08-08,Pest management,VC022
+S01743,2026-08-18,Greenhouse basics,VC020
+S01744,2026-08-02,Water management,VC004
+S01745,2026-08-17,Water management,VC023
+S01746,2026-08-04,Greenhouse basics,VC023
+S01747,2026-08-01,Savings and loans,VC021
+S01748,2026-08-09,Vermicomposting,VC005
+S01749,2026-08-15,Greenhouse basics,VC001
+S01750,2026-08-26,Water management,VC005
+S01751,2026-08-03,Record keeping,VC021
+S01752,2026-08-18,Savings and loans,VC009
+S01753,2026-08-21,Record keeping,VC010
+S01754,2026-08-18,Greenhouse basics,VC002
+S01755,2026-08-25,Vermicomposting,VC024
+S01756,2026-08-20,Water management,VC008
+S01757,2026-08-03,Greenhouse basics,VC008
+S01758,2026-08-20,Greenhouse basics,VC009
+S01759,2026-08-15,Vermicomposting,VC013
+S01760,2026-08-21,Greenhouse basics,VC001
+S01761,2026-09-17,Vermicomposting,VC013
+S01762,2026-09-20,Greenhouse basics,VC029
+S01763,2026-09-15,Water management,VC002
+S01764,2026-09-22,Vermicomposting,VC004
+S01765,2026-09-25,Water management,VC001
+S01766,2026-09-19,Record keeping,VC001
+S01767,2026-09-19,Record keeping,VC001
+S01768,2026-09-04,Greenhouse basics,VC019
+S01769,2026-09-09,Greenhouse basics,VC001
+S01770,2026-09-09,Pest management,VC008
+S01771,2026-09-13,Savings and loans,VC029
+S01772,2026-09-04,Water management,VC007
+S01773,2026-09-14,Greenhouse basics,VC022
+S01774,2026-09-08,Greenhouse basics,VC018
+S01775,2026-09-01,Vermicomposting,VC002
+S01776,2026-09-27,Record keeping,VC026
+S01777,2026-09-27,Savings and loans,VC009
+S01778,2026-09-02,Greenhouse basics,VC016
+S01779,2026-09-22,Savings and loans,VC018
+S01780,2026-09-07,Water management,VC024
+S01781,2026-09-07,Greenhouse basics,VC008
+S01782,2026-09-06,Greenhouse basics,VC013
+S01783,2026-09-16,Record keeping,VC001
+S01784,2026-09-09,Pest management,VC029
+S01785,2026-09-19,Record keeping,VC006
+S01786,2026-09-07,Water management,VC011
+S01787,2026-09-21,Water management,VC030
+S01788,2026-09-23,Pest management,VC009
+S01789,2026-09-26,Pest management,VC020
+S01790,2026-09-19,Record keeping,VC001
+S01791,2026-09-05,Greenhouse basics,VC017
+S01792,2026-09-05,Water management,VC028
+S01793,2026-09-06,Greenhouse basics,VC028
+S01794,2026-09-02,Greenhouse basics,VC028
+S01795,2026-09-26,Pest management,VC022
+S01796,2026-09-19,Vermicomposting,VC021
+S01797,2026-09-02,Pest management,VC014
+S01798,2026-09-06,Savings and loans,VC017
+S01799,2026-09-23,Water management,VC029
+S01800,2026-09-25,Greenhouse basics,VC017
+S01801,2026-10-09,Greenhouse basics,VC011
+S01802,2026-10-20,Water management,VC011
+S01803,2026-10-19,Pest management,VC017
+S01804,2026-10-03,Pest management,VC017
+S01805,2026-10-03,Savings and loans,VC029
+S01806,2026-10-06,Vermicomposting,VC022
+S01807,2026-10-15,Pest management,VC010
+S01808,2026-10-08,Savings and loans,VC008
+S01809,2026-10-21,Vermicomposting,VC024
+S01810,2026-10-04,Vermicomposting,VC017
+S01811,2026-10-26,Water management,VC015
+S01812,2026-10-05,Greenhouse basics,VC024
+S01813,2026-10-23,Record keeping,VC028
+S01814,2026-10-03,Savings and loans,VC029
+S01815,2026-10-02,Record keeping,VC013
+S01816,2026-10-04,Water management,VC014
+S01817,2026-10-19,Pest management,VC024
+S01818,2026-10-06,Vermicomposting,VC016
+S01819,2026-10-21,Record keeping,VC018
+S01820,2026-10-14,Pest management,VC020
+S01821,2026-10-11,Savings and loans,VC013
+S01822,2026-10-02,Greenhouse basics,VC030
+S01823,2026-10-19,Greenhouse basics,VC016
+S01824,2026-10-02,Water management,VC002
+S01825,2026-10-07,Vermicomposting,VC009
+S01826,2026-10-18,Vermicomposting,VC020
+S01827,2026-10-14,Savings and loans,VC030
+S01828,2026-10-10,Record keeping,VC015
+S01829,2026-10-17,Vermicomposting,VC028
+S01830,2026-10-04,Savings and loans,VC030
+S01831,2026-10-06,Record keeping,VC007
+S01832,2026-10-24,Savings and loans,VC029
+S01833,2026-10-07,Vermicomposting,VC018
+S01834,2026-10-01,Vermicomposting,VC008
+S01835,2026-10-02,Pest management,VC029
+S01836,2026-10-26,Savings and loans,VC012
+S01837,2026-10-10,Pest management,VC015
+S01838,2026-10-02,Water management,VC021
+S01839,2026-10-02,Savings and loans,VC028
+S01840,2026-10-19,Water management,VC019

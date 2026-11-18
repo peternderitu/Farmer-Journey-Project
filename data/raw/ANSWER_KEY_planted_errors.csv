@@ -1,0 +1,12 @@
+planted_problem,count
+"Duplicate farmers (same person, new ID, name in capitals)",60
+Missing phone numbers,130
+Inconsistent sex labels (F/M expected),150
+Ward spelling variants (lower case / underscores),90
+Registration dates in the future,12
+Impossible ages,15
+Sales with farmer_id not in registry (orphans),25
+Negative sale amounts,8
+Attendance with unknown farmer_id,40
+"Ledger months that do not match sales (Mar 2025, Aug 2025, Feb 2026)",3
+"Note: the 8 negative sales also create small ledger mismatches (8 more months), so expect about 11 mismatched ledger months in total",0
